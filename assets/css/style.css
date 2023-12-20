@@ -92,22 +92,11 @@ header div ul li {
     color: #ffffff;
 }
 
+h3 {
+    margin-bottom: 10px;
+    text-align: center;
+}
 /* 
-.benefit-lead {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-.benefit-brand {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-.benefit-cost {
-    margin-bottom: 32px;
-    color: #ffffff;
-} */
-
 .benefit-lead h3 {
     margin-bottom: 10px;
     text-align: center;
@@ -121,7 +110,7 @@ header div ul li {
 .benefit-cost h3 {
     margin-bottom: 10px;
     text-align: center;
-}
+} */
 
 .benefit-lead img {
     display: block;
