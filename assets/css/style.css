@@ -50,6 +50,11 @@ header div ul li {
     margin-left: 25px;
 }
 
+a:hover {
+    color:  #78d61a;
+    cursor: pointer;
+}
+
 .hero {
     height: 800px;
     width: 100%;
