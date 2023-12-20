@@ -1,5 +1,3 @@
-/* semantic HTML */
-
 * {
     box-sizing: border-box;
     padding: 0;
@@ -26,15 +24,13 @@ header {
     color: #ffffff;
 }
 
-/* class elements */
-
-header h1 {
+h1 {
     display: inline-block;
     font-size: 48px;
 }
 
-header h1 .seo {
-    color: #d9dcd6;
+.seo {
+    color: #78d61a;
 }
 
 header div {
@@ -97,22 +93,10 @@ h3 {
     text-align: center;
 }
 
-.benefit-lead img {
+img {
     display: block;
     margin: 10px auto;
-    max-width: 150px;
-}
-
-.benefit-brand img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-
-.benefit-cost img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
+    max-width: 150px; 
 }
 
 .search-engine-optimization {
