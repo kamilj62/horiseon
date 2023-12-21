@@ -107,7 +107,8 @@ a:hover {
 
 .skillz {
     margin-bottom: 20px;
-    padding: 50px;
+    padding-top: 20px;
+    padding-left: 20px;
     height: 300px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2a607c;
